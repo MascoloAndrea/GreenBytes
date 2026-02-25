@@ -1,16 +1,4 @@
-Repository dedicata al progetto sviluppato per il corso di Fondamenti di Human-Computer Interaction a.a. 2025/2026
-Gruppo formato da:
+#GreenBytes
 
--Paolo Martino
 
--Andrea Mascolo
-
--Linda Amantia
-
--Omar Boulahrajane
-
--Matteo Botti
-
--Ludovico Reggianini
-
-Link al sito: https://paolomartino.github.io/HCI-GreenBytes/
+Link al sito: https://mascoloandrea.github.io/GreenBytes/
